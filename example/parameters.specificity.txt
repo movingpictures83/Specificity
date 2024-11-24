@@ -1,0 +1,5 @@
+genes	PCATSNE.rds
+minsamples	6
+minexpression	1
+mincells	10
+threshold	0.7

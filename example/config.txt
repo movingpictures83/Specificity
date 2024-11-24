@@ -1,0 +1,2 @@
+Prefix plugins/Specificity/example/
+Plugin Specificity inputfile parameters.specificity.txt outputfile Specific.rds
